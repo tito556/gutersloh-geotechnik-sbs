@@ -1,0 +1,48 @@
+# Geotechnik — Gütersloh
+
+> Geotechnical engineering services in Gütersloh, Deutschland.
+
+## Services
+- [Anker](https://gutersloh.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://gutersloh.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://gutersloh.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://gutersloh.geotechnik.sbs/aushub-monitoring/)
+- [Bodenverbesserung](https://gutersloh.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://gutersloh.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://gutersloh.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://gutersloh.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://gutersloh.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://gutersloh.geotechnik.sbs/flexibler-belag/)
+- [Geophysik](https://gutersloh.geotechnik.sbs/geophysik/)
+- [Grundungen](https://gutersloh.geotechnik.sbs/grundungen/)
+- [Hange](https://gutersloh.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://gutersloh.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Korngrossenanalyse](https://gutersloh.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://gutersloh.geotechnik.sbs/labor/)
+- [Labor In Situ](https://gutersloh.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://gutersloh.geotechnik.sbs/masw/)
+- [Pfahle](https://gutersloh.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://gutersloh.geotechnik.sbs/plattendruckversuch/)
+- [Ruttelverdichtung](https://gutersloh.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://gutersloh.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://gutersloh.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://gutersloh.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://gutersloh.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://gutersloh.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://gutersloh.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://gutersloh.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://gutersloh.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://gutersloh.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://gutersloh.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://gutersloh.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://gutersloh.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://gutersloh.geotechnik.sbs/untersuchung/)
+- [Weichbodentunnel](https://gutersloh.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://gutersloh.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://gutersloh.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Gütersloh, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
